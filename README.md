@@ -7,7 +7,6 @@ This repository contains scripts and analysis related to the calculation of the 
 ## Contents  
 - **`bispec_50QSims.py`**: Python script to compute the bispectrum in redshift or real space.  
 - **`Bk configuration analysis/ `**: Jupyter notebooks analyzing bispectrum results for different triangle configurations along with plots
-- **`data/`**: Sample simulation data from Quijote Simulations.  
 
 
 ## Features  
